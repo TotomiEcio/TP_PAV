@@ -20,3 +20,25 @@ D:\Tomi\Facultad\4To\PAV I\Juventus\tomasrpons\tp_pav\obj\Debug\Juventus.Carpas.
 D:\Tomi\Facultad\4To\PAV I\Juventus\tomasrpons\tp_pav\obj\Debug\Juventus.AcercaDeNosotros.AcercaNos.resources
 D:\Tomi\Facultad\4To\PAV I\Juventus\tomasrpons\tp_pav\obj\Debug\Juventus.Varios.Form_Tipos.resources
 D:\Tomi\Facultad\4To\PAV I\Juventus\tomasrpons\tp_pav\obj\Debug\Juventus.Actividades.Form_Actividad.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\bin\Debug\Juventus.exe.config
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\bin\Debug\Juventus.exe
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\bin\Debug\Juventus.pdb
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.csprojAssemblyReference.cache
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.AcercaDeNosotros.AcercaNos.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Actividades.Form_Actividad.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Carpa_Prueba_Pedro.AgregarArea.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Carpas.Carpas.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.ElementosCocina.Form_ElemCocina.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.ElementosElectricos.Form_Electricidad.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Carpas.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Varios.Form_Tipos.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Login.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.ABM_Motor.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Principal.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Properties.Resources.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Usuarios.Form_Usuarios.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.Vehiculo.Frm_Vehiculos.resources
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.csproj.GenerateResource.cache
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.exe
+C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.pdb

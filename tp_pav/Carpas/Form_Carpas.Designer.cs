@@ -243,7 +243,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Carpas";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Carpas";
+            this.Text = "Administrar carpas";
             this.Load += new System.EventHandler(this.Carpas_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

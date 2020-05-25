@@ -54,9 +54,9 @@
             this.label1.Location = new System.Drawing.Point(9, 20);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 26);
+            this.label1.Size = new System.Drawing.Size(97, 26);
             this.label1.TabIndex = 2;
-            this.label1.Text = "ABM";
+            this.label1.Text = "Motores";
             // 
             // dgMotores
             // 
@@ -67,7 +67,7 @@
             this.Modelo,
             this.TipoMotor});
             this.dgMotores.Location = new System.Drawing.Point(343, 73);
-            this.dgMotores.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dgMotores.Margin = new System.Windows.Forms.Padding(2);
             this.dgMotores.Name = "dgMotores";
             this.dgMotores.RowTemplate.Height = 24;
             this.dgMotores.Size = new System.Drawing.Size(359, 167);
@@ -106,7 +106,7 @@
             // btnActualizar
             // 
             this.btnActualizar.Location = new System.Drawing.Point(222, 202);
-            this.btnActualizar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnActualizar.Margin = new System.Windows.Forms.Padding(2);
             this.btnActualizar.Name = "btnActualizar";
             this.btnActualizar.Size = new System.Drawing.Size(71, 37);
             this.btnActualizar.TabIndex = 10;
@@ -150,7 +150,7 @@
             // txtFabricante
             // 
             this.txtFabricante.Location = new System.Drawing.Point(160, 76);
-            this.txtFabricante.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtFabricante.Margin = new System.Windows.Forms.Padding(2);
             this.txtFabricante.Name = "txtFabricante";
             this.txtFabricante.Size = new System.Drawing.Size(134, 20);
             this.txtFabricante.TabIndex = 14;
@@ -158,7 +158,7 @@
             // txtModelo
             // 
             this.txtModelo.Location = new System.Drawing.Point(160, 115);
-            this.txtModelo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtModelo.Margin = new System.Windows.Forms.Padding(2);
             this.txtModelo.Name = "txtModelo";
             this.txtModelo.Size = new System.Drawing.Size(134, 20);
             this.txtModelo.TabIndex = 15;
@@ -167,7 +167,7 @@
             // 
             this.cmbTipoMotor.FormattingEnabled = true;
             this.cmbTipoMotor.Location = new System.Drawing.Point(160, 161);
-            this.cmbTipoMotor.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cmbTipoMotor.Margin = new System.Windows.Forms.Padding(2);
             this.cmbTipoMotor.Name = "cmbTipoMotor";
             this.cmbTipoMotor.Size = new System.Drawing.Size(134, 21);
             this.cmbTipoMotor.TabIndex = 16;
@@ -175,7 +175,7 @@
             // btnEliminar
             // 
             this.btnEliminar.Location = new System.Drawing.Point(118, 202);
-            this.btnEliminar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnEliminar.Margin = new System.Windows.Forms.Padding(2);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(71, 37);
             this.btnEliminar.TabIndex = 17;
@@ -186,7 +186,7 @@
             // btnAlta
             // 
             this.btnAlta.Location = new System.Drawing.Point(14, 202);
-            this.btnAlta.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAlta.Margin = new System.Windows.Forms.Padding(2);
             this.btnAlta.Name = "btnAlta";
             this.btnAlta.Size = new System.Drawing.Size(71, 37);
             this.btnAlta.TabIndex = 18;
@@ -198,7 +198,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.LightSeaGreen;
+            this.BackColor = System.Drawing.Color.LightGray;
             this.ClientSize = new System.Drawing.Size(730, 258);
             this.Controls.Add(this.btnAlta);
             this.Controls.Add(this.btnEliminar);
@@ -212,7 +212,7 @@
             this.Controls.Add(this.dgMotores);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ABM_Motor";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Modificar motores";

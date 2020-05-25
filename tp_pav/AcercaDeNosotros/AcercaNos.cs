@@ -12,10 +12,10 @@ namespace Juventus.AcercaDeNosotros
 {
     public partial class AcercaNos : Form
     {
-        private string info = "Ateneo Juventus es una asociación civil sin fines de lucro (Asociación Civil Ateneo Juventus - Cuit 30-71053858-8),\n que tiene por objetivo la formación de jóvenes dirigentes cristianos, al estilo de Jesús,\n para que vivan y transmitan el Evangelio siendo “sal y luz” en el mundo, en su ámbito natural de acción." +
-            "\n Fue Fundado por el Padre Capuchino Carmelo d´Agostino\n el 26 de Abril de 1958. Hoy, a pesar del fallecimiento de su fundador,\n la Institución sigue contando con miles de ateneístas que están comprometidos en el sostenimiento de este espacio,\n que permite a los adolescentes formar su proyecto personal de vida aprendiendo a caminar con Dios en su vida, acompañados de otros jóvenes,\n vacuna eficaz contra el vacío y la soledad." +
-            "El proceso formativo comienza desde muy temprano y de\n diferentes maneras participan chicos desde 4º grado hasta la Universidad\n y nos acompaña luego durante toda nuestra vida.Son los mismos chicos quienes van asumiendo, al crecer,\n el rol de formadores de quienes ingresan,\n y participan más tarde como padres respaldando el trabajo de los jefes." +
-            "\n Una parte importante de la formación de los jóvenes consiste en la acción social y la ayuda al prójimo.\n Desde hace unos años Ateneo trabaja de forma activa y permanente en distintos barrios de la ciudad, asilos, hogares, etc";
+        private string info = "El Ateneo Juventus es una agrupación juvenil que se constituye el 26 de abril de 1958 en la Parroquia del Sagrado Corazón de los Padres Capuchinos de Córdoba, bajo la inspiración del Padre Carmelo D´Agostino." +
+            "\n Este movimiento nace a fin de dar cauce a inquietudes de jóvenes en su necesidad de búsqueda de una mayor formación.Desde sus inicios procuró perfilarse como un nuevo nucleamiento dinámico y vital intentando satisfacer de este modo las expectativas juveniles." +
+            "\n En un comienzo nace como Ateneo Deportivo Juventus, siendo una organización para varones.Entre sus actividades se contemplaba el deporte con la formación humana y cristiana.Todas las semanas los jóvenes tenían ocasiones de practicar fútbol, ping-pong, billar y realizándose como complemento charlas formativas.De vez en cuando se realizaban excursiones a las sierras, las que dieron lugar, más adelante  a los primeros Campamentos Formativos.Luego se fue dando más tiempo a la formación, transformándose el deporte en un complemento secundario y la denominación deAteneo Deportivo Juventus cambió por la de Ateneo Juventus." +
+            "\n Hacia el año 1965 en el Ateneo se instaura una nueva modalidad y se hace mixto, acorde con el espíritu que traían los nuevos tiempos.De este modo se termina de organizar como un movimiento juvenil cuyos objetivos fueron formar a los jóvenes para la vida, en una realidad contemporánea y realista y preparar a los futuros dirigentes cristianos.";
 
         public AcercaNos()
         {
@@ -24,7 +24,12 @@ namespace Juventus.AcercaDeNosotros
 
         private void AcercaNos_Load(object sender, EventArgs e)
         {
-            lblInfo.Text = info;
+            txtHistoria.Text = info;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
