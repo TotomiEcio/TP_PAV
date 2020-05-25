@@ -47,17 +47,17 @@
             this.lblInfo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.lblInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblInfo.Location = new System.Drawing.Point(0, 0);
-            this.lblInfo.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(0, 24);
+            this.lblInfo.Size = new System.Drawing.Size(0, 29);
             this.lblInfo.TabIndex = 0;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(253, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(337, 15);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(509, 101);
+            this.pictureBox1.Size = new System.Drawing.Size(679, 124);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -67,19 +67,21 @@
             // 
             this.txtHistoria.BackColor = System.Drawing.Color.LightGray;
             this.txtHistoria.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtHistoria.Location = new System.Drawing.Point(12, 119);
+            this.txtHistoria.Location = new System.Drawing.Point(16, 146);
+            this.txtHistoria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtHistoria.Name = "txtHistoria";
             this.txtHistoria.ReadOnly = true;
-            this.txtHistoria.Size = new System.Drawing.Size(1004, 232);
+            this.txtHistoria.Size = new System.Drawing.Size(1337, 285);
             this.txtHistoria.TabIndex = 2;
             this.txtHistoria.Text = "";
             // 
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(12, 357);
+            this.pictureBox2.Location = new System.Drawing.Point(16, 439);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(326, 150);
+            this.pictureBox2.Size = new System.Drawing.Size(435, 185);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 7;
             this.pictureBox2.TabStop = false;
@@ -87,9 +89,10 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(676, 357);
+            this.pictureBox4.Location = new System.Drawing.Point(901, 439);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(340, 150);
+            this.pictureBox4.Size = new System.Drawing.Size(453, 185);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 8;
             this.pictureBox4.TabStop = false;
@@ -97,19 +100,20 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(344, 357);
+            this.pictureBox6.Location = new System.Drawing.Point(459, 439);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(326, 150);
+            this.pictureBox6.Size = new System.Drawing.Size(435, 185);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 9;
             this.pictureBox6.TabStop = false;
             // 
             // AcercaNos
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGray;
-            this.ClientSize = new System.Drawing.Size(1028, 557);
+            this.ClientSize = new System.Drawing.Size(1371, 686);
             this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox2);
@@ -117,7 +121,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblInfo);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "AcercaNos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Acerca de nosotros";
