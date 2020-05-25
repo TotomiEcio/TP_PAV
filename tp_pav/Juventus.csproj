@@ -181,10 +181,6 @@
     <EmbeddedResource Include="Vehiculo\Frm_Vehiculos.resx">
       <DependentUpon>Frm_Vehiculos.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include=".gitattributes" />
-    <None Include=".gitignore" />
-    <None Include=".vs\slnx.sqlite" />
-    <None Include=".vs\VSWorkspaceState.json" />
     <None Include="bin\Debug\Juventus.exe.config" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
