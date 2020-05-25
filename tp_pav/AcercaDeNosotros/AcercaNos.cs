@@ -12,6 +12,7 @@ namespace Juventus.AcercaDeNosotros
 {
     public partial class AcercaNos : Form
     {
+        //historia de la organizacion
         private string info = "El Ateneo Juventus es una agrupación juvenil que se constituye el 26 de abril de 1958 en la Parroquia del Sagrado Corazón de los Padres Capuchinos de Córdoba, bajo la inspiración del Padre Carmelo D´Agostino." +
             "\n Este movimiento nace a fin de dar cauce a inquietudes de jóvenes en su necesidad de búsqueda de una mayor formación.Desde sus inicios procuró perfilarse como un nuevo nucleamiento dinámico y vital intentando satisfacer de este modo las expectativas juveniles." +
             "\n En un comienzo nace como Ateneo Deportivo Juventus, siendo una organización para varones.Entre sus actividades se contemplaba el deporte con la formación humana y cristiana.Todas las semanas los jóvenes tenían ocasiones de practicar fútbol, ping-pong, billar y realizándose como complemento charlas formativas.De vez en cuando se realizaban excursiones a las sierras, las que dieron lugar, más adelante  a los primeros Campamentos Formativos.Luego se fue dando más tiempo a la formación, transformándose el deporte en un complemento secundario y la denominación deAteneo Deportivo Juventus cambió por la de Ateneo Juventus." +
