@@ -22,27 +22,27 @@ namespace Juventus.Varios
 
         private void cmbTipo_SelectedValueChanged(object sender, EventArgs e)
         {
-            switch (cmbTipo.SelectedIndex + 1)
+            switch (cmbTipo.SelectedIndex)
             {
-                case 1:
+                case 0:
                     tabla = "TiposActividades";
                     break;
-                case 2:
+                case 1:
                     tabla = "TiposCarpas";
                     break;
-                case 3:
+                case 2:
                     tabla = "TiposDocumentos";
                     break;
-                case 4:
+                case 3:
                     tabla = "TiposElemCocina";
                     break;
-                case 5:
+                case 4:
                     tabla = "TiposElemElectricidad";
                     break;
-                case 6:
+                case 5:
                     tabla = "TiposMotores";
                     break;
-                case 7:
+                case 6:
                     tabla = "TiposSangres";
                     break;
             }
@@ -57,9 +57,9 @@ namespace Juventus.Varios
                 dataTipos.Columns[0].Width = 40;
                 dataTipos.Columns[0].ReadOnly = true;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                MessageBox.Show("Error al cargar datos");
+                MessageBox.Show("Error al cargar datos. " + ex.Message);
             }
         }
 
@@ -68,6 +68,7 @@ namespace Juventus.Varios
         private void btnNuevo_Click(object sender, EventArgs e)
         {
             dataTipos.AllowUserToAddRows = true;
+            dataTipos.Enabled = true;
         }
 
 
@@ -83,6 +84,7 @@ namespace Juventus.Varios
             AD_Tipos.AgregarTipo(nombre, tabla);
             CargarDatos();
             dataTipos.AllowUserToAddRows = false;
+            dataTipos.Enabled = false;
         }
     }
 }
