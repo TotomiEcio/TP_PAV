@@ -28,7 +28,7 @@ namespace Juventus.ElementosElectricos
             {
                 dataElectricidad.DataSource = AD_Electricidad.ObtenerElementos();
             }
-            catch (Exception)
+            catch (Exception )
             {
                 MessageBox.Show("Error al insertar valor");
             }
@@ -43,7 +43,7 @@ namespace Juventus.ElementosElectricos
                 cmbTipo.ValueMember = "id";
                 cmbTipo.SelectedIndex = -1;
             }
-            catch (Exception)
+            catch (Exception )
             {
                 MessageBox.Show("Error al cargar tipos de elementos de electricidad");
             }
@@ -57,7 +57,7 @@ namespace Juventus.ElementosElectricos
                 AD_Electricidad.AgregarElementoElectrico(ee);
                 CargarTablaElementos();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 MessageBox.Show("Error al guardar elemento");
             }

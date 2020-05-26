@@ -204,6 +204,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include=".vs\Juventus\v16\" />
+    <Folder Include=".vs\tp_pav\v16\" />
     <Folder Include="bin\Release\" />
     <Folder Include="obj\Release\" />
   </ItemGroup>

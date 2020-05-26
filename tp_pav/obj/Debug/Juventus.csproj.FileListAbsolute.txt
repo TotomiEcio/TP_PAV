@@ -42,24 +42,3 @@ C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.csproj.G
 C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.csproj.CoreCompileInputs.cache
 C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.exe
 C:\Users\Santi\Source\Repos\TotomiEcio\TP_PAV\tp_pav\obj\Debug\Juventus.pdb
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\bin\Debug\Juventus.exe.config
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\bin\Debug\Juventus.exe
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\bin\Debug\Juventus.pdb
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.csprojAssemblyReference.cache
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.AcercaDeNosotros.AcercaNos.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Actividades.Form_Actividad.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Formularios.Carpas.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.ElementosCocina.Form_ElemCocina.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.ElementosElectricos.Form_Electricidad.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Carpas.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Varios.Form_Tipos.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Login.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.ABM_Motor.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Principal.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Properties.Resources.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Usuarios.Form_Usuarios.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.Vehiculo.Frm_Vehiculos.resources
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.csproj.GenerateResource.cache
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.csproj.CoreCompileInputs.cache
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.exe
-D:\Tomi\Facultad\4To\PAV I\Juventus\TP_PAV2\tp_pav\obj\Debug\Juventus.pdb

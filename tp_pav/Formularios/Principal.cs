@@ -116,11 +116,5 @@ namespace Juventus
             ventana.Show();
 
         }
-
-        private void tiposToolStripMenuItem_Click_1(object sender, EventArgs e)
-        {
-            Form_Tipos tipos = new Form_Tipos();
-            tipos.Show();
-        }
     }
 }
